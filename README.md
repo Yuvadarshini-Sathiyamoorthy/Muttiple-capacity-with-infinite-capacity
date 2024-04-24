@@ -62,7 +62,8 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output
-![image](pro4b.png)
+![image](https://github.com/Yuvadarshini-Sathiyamoorthy/Muttiple-capacity-with-infinite-capacity/assets/93482485/a4ec5ab5-1007-42a0-96ca-7f546616e070)
+
 
 ## Result
 
